@@ -108,6 +108,5 @@ public class Node {
         // Visit 5: [6, 7]
         // Visit 6: [7]
         // Visit 7: [] (finished)
-        // 
     }
 }
